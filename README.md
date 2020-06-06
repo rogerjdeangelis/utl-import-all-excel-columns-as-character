@@ -6,7 +6,7 @@
        a. When we have a named range and column names x1-x5                                                  
        b. Arbitrary: Without a named range and arbitrary column names                                        
        c. dbsatype and scantext=no                                                                           
-       d. R xlsx package and colcalsses="Charcater"                                                          
+       d. R xlsx package and colclasses="Charcater"                                                          
        e. SAS Passthru                                                                                       
                                                                                                              
                                                                                                              
